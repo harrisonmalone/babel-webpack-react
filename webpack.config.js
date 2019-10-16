@@ -2,7 +2,7 @@ const path = require('path');
 
 module.exports = {
   mode: 'development',
-  entry: './src/HistoryData.js',
+  entry: './src/App.js',
   output: {
       filename: 'main.js',
       publicPath: 'dist'
